@@ -1,5 +1,6 @@
 #Github for Poets
 
+
 **Jargon alert:**
 
  - *commit*
@@ -72,3 +73,5 @@ Two methods:
 - [18F: How To Use GitHub and the Terminal - A Guide](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/#learn-how-to-make-a-pull-request)
 - [18F: The Contributor's Guide to 18F - Code for the Common Good](https://18f.gsa.gov/2014/08/12/the-contributors-guide-to-18f-code-for-the-common/)
 - [CodeSchool: Mastering Github](https://www.codeschool.com/courses/mastering-github)
+
+#Sharla was here
