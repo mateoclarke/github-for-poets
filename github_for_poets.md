@@ -56,13 +56,17 @@ Two methods:
 1. Start a repositroy from scratch
 2. "Fork" another user's repo
 
-##Command Line
+##Typical Command Line Workflow
 
 	git init
 	git status
 	git add .
 	git remote add origin git@github.com:your_account/your_repo.git
 	git push -u origin master 
+
+## Get started with Github without the Command Line
+- [GitHub for Mac - Free Software: GitHub Without the Command Line](http://mac.appstorm.net/reviews/web-dev-review/github-for-mac-github-without-the-command-line/)
+- [Tower - Paid Software](http://www.git-tower.com/)
 	
 
 ## Resources
