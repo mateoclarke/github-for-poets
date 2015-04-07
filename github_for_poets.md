@@ -54,6 +54,13 @@ Two methods:
 1. Start a repositroy from scratch
 2. "Fork" another user's repo
 
+##Command Line
+
+	git init
+	git status
+	git add .
+	
+
 ## Resources
 
 - [Github Bootcamp](https://help.github.com/categories/bootcamp/)
