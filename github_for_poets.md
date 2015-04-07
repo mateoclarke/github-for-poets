@@ -9,6 +9,7 @@
  - *pull request*
  - *push*
  - *markdown*
+ - *clone*
 
 **Github** is a web-based hosting service for softwaree development projects that use the Git revision control system.
 
@@ -65,6 +66,7 @@ Two methods:
 
 ## Resources
 
+- [Github: SSH Keys](https://help.github.com/articles/generating-ssh-keys/)
 - [Github Bootcamp](https://help.github.com/categories/bootcamp/)
 - [Github: Using pull requests](https://help.github.com/articles/using-pull-requests/)
 - [18F: How To Use GitHub and the Terminal - A Guide](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/#learn-how-to-make-a-pull-request)
