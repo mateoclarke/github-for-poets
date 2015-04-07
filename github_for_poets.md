@@ -1,4 +1,4 @@
-#Github for Poets
+#Github for Poets & Data Scientist
 
 **Jargon alert:**
 
