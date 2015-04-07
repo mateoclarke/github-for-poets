@@ -59,6 +59,8 @@ Two methods:
 	git init
 	git status
 	git add .
+	git remote add origin git@github.com:your_account/your_repo.git
+	git push -u origin master 
 	
 
 ## Resources
