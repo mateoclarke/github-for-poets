@@ -65,8 +65,8 @@ Two methods:
 	git push -u origin master 
 
 ## Get started with Github without the Command Line
-- [GitHub for Mac - Free Software: GitHub Without the Command Line](http://mac.appstorm.net/reviews/web-dev-review/github-for-mac-github-without-the-command-line/)
-- [Tower - Paid Software](http://www.git-tower.com/)
+- [GitHub Desktop (_Free for Mac + Windows_)](https://desktop.github.com/)
+- [Tower (_Paid Software_)](http://www.git-tower.com/)
 	
 
 ## Resources
